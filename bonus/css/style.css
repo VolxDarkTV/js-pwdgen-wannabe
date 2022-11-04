@@ -8,6 +8,8 @@
     width: 250px;
     height: 150px;
     padding: 10px;
+    margin: 0 auto;
+    margin-top: 50px;
     background-color: rgb(243, 73, 21, 0.2);
     border: solid black 1px;
     border-radius: 20px;
