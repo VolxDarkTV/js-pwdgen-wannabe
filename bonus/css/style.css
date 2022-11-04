@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Box Style */
+#box{
+    width: 250px;
+    height: 150px;
+    padding: 10px;
+    background-color: rgb(243, 73, 21, 0.2);
+    border: solid black 1px;
+    border-radius: 20px;
+}
