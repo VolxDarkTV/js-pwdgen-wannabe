@@ -20,4 +20,3 @@ console.log(constantNumber);
 // Output
 document.getElementById ("box").innerHTML = `Ecco a te ${name} la password che nessun altro ti darà mai:
 ${name}${surname}${color}${constantNumber}`
-// DEBUG
